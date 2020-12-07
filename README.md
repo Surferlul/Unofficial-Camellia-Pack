@@ -2,6 +2,23 @@
 # Version 1.1
 added:
 <pre>
+Quicksand                                                               uploaded by      scrappy
+Camellia Mashup (Mix by m45tertony)                                     uploaded by      ashleyriott
++ERABY+E CONNEC+10N                                                     uploaded by      jonathanrune
+[6 LANE] Ghost (Expert+++++)                                            uploaded by      dankruptmemer
+[6 LANE] Ghost (Expert++++)                                             uploaded by      dankruptmemer
+GHOS7                                                                   uploaded by      dankruptmemer
+LANE] GHOST 8]                                                          uploaded by      dankruptmemer
+Ghost (Expert++)                                                        uploaded by      dankruptmemer
+GH8ST                                                                   uploaded by      dankruptmemer
+Burstin' Banger                                                         uploaded by      miitchel
+(The) Immortal Scream                                                   uploaded by      deleteeldiablo
+///Under Construxion///                                                 uploaded by      astrella_
+BLACK DREAM DAY                                                         uploaded by      uninstaller
+</pre>
+# Version 1.0
+added
+<pre>
 Lifelight                                                               uploaded by      aeroluna
 Arche                                                                   uploaded by      depito
 Nacreous Snowmelt                                                       uploaded by      umbranox
@@ -58,17 +75,4 @@ Nirvana                                                                 uploaded
 Ragnarok                                                                uploaded by      jonathanrune
 Diastrophism                                                            uploaded by      jez
 NANI THE FUCK!!                                                         uploaded by      hoppaw
-Quicksand                                                               uploaded by      scrappy
-Camellia Mashup (Mix by m45tertony)                                     uploaded by      ashleyriott
-+ERABY+E CONNEC+10N                                                     uploaded by      jonathanrune
-[6 LANE] Ghost (Expert+++++)                                            uploaded by      dankruptmemer
-[6 LANE] Ghost (Expert++++)                                             uploaded by      dankruptmemer
-GHOS7                                                                   uploaded by      dankruptmemer
-LANE] GHOST 8]                                                          uploaded by      dankruptmemer
-Ghost (Expert++)                                                        uploaded by      dankruptmemer
-GH8ST                                                                   uploaded by      dankruptmemer
-Burstin' Banger                                                         uploaded by      miitchel
-(The) Immortal Scream                                                   uploaded by      deleteeldiablo
-///Under Construxion///                                                 uploaded by      astrella_
-BLACK DREAM DAY                                                         uploaded by      uninstaller
 </pre>
