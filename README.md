@@ -17,7 +17,7 @@ Burstin' Banger                                                         uploaded
 BLACK DREAM DAY                                                         uploaded by      uninstaller
 </pre>
 # Version 1.0
-added
+added:
 <pre>
 Lifelight                                                               uploaded by      aeroluna
 Arche                                                                   uploaded by      depito
