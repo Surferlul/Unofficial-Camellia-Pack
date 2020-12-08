@@ -3,7 +3,7 @@
 <a
   href="files/Unofficial Camellia Pack.bplist" 
   download="Unofficial Camellia Pack.bplist">
-    <font size="+20">Current Version</font>
+    <font size="20">Current Version</font>
 </a>
 
 ### Versions:
