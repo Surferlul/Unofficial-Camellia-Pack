@@ -3,7 +3,7 @@
 ### Current Version:
 
 - <a 
-    href="files/Unofficial Camellia Pack v1.1.bplist" 
+    href="files/Unofficial Camellia Pack.bplist" 
     download="Unofficial Camellia Pack.bplist">
       Unofficial Cammelia Pack
   </a>
