@@ -1,6 +1,3 @@
----
-title:Unofficial Camellia Pack
----
 ## Download
 
 ### Current Version:
