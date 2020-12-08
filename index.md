@@ -8,4 +8,4 @@
 
 - [Unofficial Cammelia Pack v1.0](https://www.dropbox.com/s/1s1sdwgwld8t89p/Unofficial%20Camellia%20Pack%20v1.0.bplist?dl=1)
 
-<a href="https://raw.githubusercontent.com/Surferlul/Unofficial-Camellia-Pack/gh-pages/index.md" download="download">test</a>
+<a href="https://raw.githubusercontent.com/Surferlul/Unofficial-Camellia-Pack/gh-pages/index.md" download>test</a>
