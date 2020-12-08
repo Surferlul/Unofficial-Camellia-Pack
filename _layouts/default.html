@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
+    <meta property="og:site_name" content="Name of your website">
+    <meta property="og:url" content="https://surferlul.github.io/">
+    <meta property="og:title" content="Name of your page">
+    <meta property="og:description" content="A little description of this page">
+    <meta property="og:type" content="website">
+    <!--meta name="og:image" itemprop="image" content="path/to/image.png"-->
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
