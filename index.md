@@ -1,4 +1,4 @@
-## Download links:
+## Download
 
 ### Current Version:
 
