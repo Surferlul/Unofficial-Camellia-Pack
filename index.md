@@ -3,7 +3,9 @@
 ### Current Version:
 
 - [Unofficial Cammelia Pack v1.1](https://www.dropbox.com/s/g438ltolttphx8k/Unofficial%20Camellia%20Pack.bplist?dl=1)
-- <a href="files/Unofficial Cammelia Pack v1.1.bplist" download>Unofficial Cammelia Pack v1.1</a>
+- <a href="files/Unofficial Camellia Pack v1.1.bplist" download>Unofficial Cammelia Pack v1.1</a>
+- <a href="files/test.txt" download>test</a>
+<a href="files/test.txt" download>test</a>
 
 ### Past Versions:
 
