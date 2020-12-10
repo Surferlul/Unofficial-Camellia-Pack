@@ -6,7 +6,7 @@
 <!--style="padding-left: 40px"-->
 - <a
   href="files/Unofficial Camellia Pack.bplist" 
-  download="Unofficial Camellia Pack.bplist">BPLIST</a>
+  download="Unofficial Camellia Pack.bplist">BPLIST (for BMBF)</a>
 - <a
   href="https://github.com/Surferlul/Unofficial-Camellia-Pack/archive/levels.zip"
   style="color:red"
