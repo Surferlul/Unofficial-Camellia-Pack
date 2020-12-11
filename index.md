@@ -10,7 +10,10 @@
 - <a
   href="https://github.com/Surferlul/Unofficial-Camellia-Pack/archive/levels.zip"
   style="color:red"
-  download="Unofficial Cammelia Pack.zip">ZIP (Doesn't need SyncSaber, Includes Readme, may need fiddeling on PC to get onto Quest)</a>
+  download="Unofficial Cammelia Pack.zip">ZIP*</a>
+- <a
+  href="https://github.com/Surferlul/Unofficial-Camellia-Pack/archive/WIP.zip"
+  download="Unofficial Cammelia Pack (WIP).zip">WIP*</a>
 
 ### Versions:
 - <a 
@@ -19,3 +22,4 @@
 - <a 
     href="files/Unofficial Camellia Pack v1.0.bplist" 
     download>Unofficial Cammelia Pack v1.0</a>
+*Doesn't need SyncSaber, may need fiddeling on PC to get onto Quest
