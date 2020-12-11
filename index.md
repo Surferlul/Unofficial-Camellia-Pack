@@ -22,7 +22,3 @@
 - <a 
     href="files/Unofficial Camellia Pack v1.0.bplist" 
     download>Unofficial Cammelia Pack v1.0</a>
-
-
-
-*Doesn't need SyncSaber, may need fiddeling on PC to get onto Quest
