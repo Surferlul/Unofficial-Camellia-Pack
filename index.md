@@ -9,7 +9,6 @@
   download="Unofficial Camellia Pack.bplist">BPLIST (for BMBF)</a>
 - <a
   href="https://github.com/Surferlul/Unofficial-Camellia-Pack/archive/levels.zip"
-  style="color:red"
   download="Unofficial Cammelia Pack.zip">ZIP</a>*
 - <a
   href="https://github.com/Surferlul/Unofficial-Camellia-Pack/archive/WIP.zip"
