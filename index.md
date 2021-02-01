@@ -1,7 +1,5 @@
 ## Downloads
 
-<span style="color:red">!!!  DOWNLOAD MAY NOT WORK PROPERLY ATM CAUSE THE BEATSAVER SERVERS ARE HAVING PROBLEMS  !!!</span>
-
 ### Current Version:
 <!--style="padding-left: 40px"-->
 - <a
